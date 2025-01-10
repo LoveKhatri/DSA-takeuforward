@@ -8,6 +8,8 @@ The structure of the repository mirrors the structure on the TakeUForward websit
 
 ### JavaScript
 
+- [patterns](js/patterns)
+
 ### Java (Coming Soon)
 
 ### C++ (Coming Soon)
