@@ -28,6 +28,10 @@ The structure of the repository mirrors the structure on the TakeUForward websit
   - [Count of odd numbers in array](js/basic-arrays/count_of_odd_numbers_in_array.js)
   - [Reverse an array](js/basic-arrays/reverse_an_array.js)
   - [Check if the array is sorted](js/basic-arrays/check_if_the_array_is_sorted.js)
+- [basic-hashing](js/basic-hashing/)
+  - [Highest occuring element in an array](js/basic-hashing/highest_occuring_element_in_an_array.js)
+  - [Second highest occuring element](js/basic-hashing/second_highest_occuring_element.js)
+  - [Sum of highest and lowest frequency](js/basic-hashing/sum_of_highest_and_lowest_frequency.js)
 
 ### Java (Coming Soon)
 
