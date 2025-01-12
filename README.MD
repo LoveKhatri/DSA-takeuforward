@@ -32,6 +32,15 @@ The structure of the repository mirrors the structure on the TakeUForward websit
   - [Highest occuring element in an array](js/basic-hashing/highest_occuring_element_in_an_array.js)
   - [Second highest occuring element](js/basic-hashing/second_highest_occuring_element.js)
   - [Sum of highest and lowest frequency](js/basic-hashing/sum_of_highest_and_lowest_frequency.js)
+- [basic-strings](js/basic-strings/)
+  - [Reverse a string](js/basic-strings/reverse_a_string.js)
+  - [Palindrome check](js/basic-strings/palindrome_check.js)
+  - [Largest odd number in a string](js/basic-strings/largest_odd_number_in_a_string.js)
+  - [Longest common prefix](js/basic-strings/longest_common_prefix.js)
+  - [Isomorphic string](js/basic-strings/isomorphic_string.js)
+  - [Rotate string](js/basic-strings/rotate_string.js)
+  - [Valid anagram](js/basic-strings/valid_anagram.js)
+  - [Sort characters by frequency](js/basic-strings/sort_characters_by_frequency.js)
 
 ### Java (Coming Soon)
 
