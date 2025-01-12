@@ -23,6 +23,11 @@ The structure of the repository mirrors the structure on the TakeUForward websit
   - [GCD of two numbers](js/basic-maths/gcd_of_two_numbers.js)
   - [LCM of two numbers](js/basic-maths/lcm_of_two_numbers.js)
   - [Divisors of a number](js/basic-maths/divisors_of_a_number.js)
+- [basic-arrays](js/basic-arrays)
+  - [Sum of array elements](js/basic-arrays/sum_of_array_elements.js)
+  - [Count of odd numbers in array](js/basic-arrays/count_of_odd_numbers_in_array.js)
+  - [Reverse an array](js/basic-arrays/reverse_an_array.js)
+  - [Check if the array is sorted](js/basic-arrays/check_if_the_array_is_sorted.js)
 
 ### Java (Coming Soon)
 
