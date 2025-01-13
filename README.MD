@@ -41,6 +41,17 @@ The structure of the repository mirrors the structure on the TakeUForward websit
   - [Rotate string](js/basic-strings/rotate_string.js)
   - [Valid anagram](js/basic-strings/valid_anagram.js)
   - [Sort characters by frequency](js/basic-strings/sort_characters_by_frequency.js)
+- [basic-recursion](js/basic-recursion/)
+  - [Sum of first N numbers](js/basic-recursion/sum_of_first_n_numbers.js)
+  - [Factorial of a given number](js/basic-recursion/factorial_of_a_given_number.js)
+  - [Sum of array elements](js/basic-recursion/sum_of_array_elements.js)
+  - [Reverse a string](js/basic-recursion/reverse_a_string.js)
+  - [Check if string is palindrome or not](js/basic-recursion/check_if_string_is_palindrome_or_not.js)
+  - [Check if a number is prime or not](js/basic-recursion/check_if_a_number_is_prime_or_not.js)
+  - [Reverse an array](js/basic-recursion/reverse_an_array.js)
+  - [Check if the array is sorted](js/basic-recursion/check_if_the_array_is_sorted.js)
+  - [Sum of digits in a given number](js/basic-recursion/sum_of_digits_in_a_given_number.js)
+  - [Fibonacci number](js/basic-recursion/fibonacci_number.js)
 
 ### Java (Coming Soon)
 
