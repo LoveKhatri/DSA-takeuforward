@@ -42,6 +42,7 @@ The structure of the repository mirrors the structure on the TakeUForward websit
   - [Valid anagram](js/basic-strings/valid_anagram.js)
   - [Sort characters by frequency](js/basic-strings/sort_characters_by_frequency.js)
 - [basic-recursion](js/basic-recursion/)
+
   - [Sum of first N numbers](js/basic-recursion/sum_of_first_n_numbers.js)
   - [Factorial of a given number](js/basic-recursion/factorial_of_a_given_number.js)
   - [Sum of array elements](js/basic-recursion/sum_of_array_elements.js)
@@ -52,6 +53,11 @@ The structure of the repository mirrors the structure on the TakeUForward websit
   - [Check if the array is sorted](js/basic-recursion/check_if_the_array_is_sorted.js)
   - [Sum of digits in a given number](js/basic-recursion/sum_of_digits_in_a_given_number.js)
   - [Fibonacci number](js/basic-recursion/fibonacci_number.js)
+
+- [Sorting](js/sorting/)
+  - [Selection sort](js/sorting/selection_sort.js)
+  - [Bubble sort](js/sorting/bubble_sort.js)
+  - [Insertion sorting](js/sorting/insertion_sorting.js)
 
 ### Java (Coming Soon)
 
