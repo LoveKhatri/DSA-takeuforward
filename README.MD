@@ -58,6 +58,8 @@ The structure of the repository mirrors the structure on the TakeUForward websit
   - [Selection sort](js/sorting/selection_sort.js)
   - [Bubble sort](js/sorting/bubble_sort.js)
   - [Insertion sorting](js/sorting/insertion_sorting.js)
+  - [Merge sorting](js/sorting/merge_sorting.js)
+  - [Quick sorting](js/sorting/quick_sorting.js)
 
 ### Java (Coming Soon)
 
