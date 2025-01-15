@@ -55,11 +55,21 @@ The structure of the repository mirrors the structure on the TakeUForward websit
   - [Fibonacci number](js/basic-recursion/fibonacci_number.js)
 
 - [Sorting](js/sorting/)
+
   - [Selection sort](js/sorting/selection_sort.js)
   - [Bubble sort](js/sorting/bubble_sort.js)
   - [Insertion sorting](js/sorting/insertion_sorting.js)
   - [Merge sorting](js/sorting/merge_sorting.js)
   - [Quick sorting](js/sorting/quick_sorting.js)
+
+- [Arrays](js/arrays/)
+  - [Fundamentals](js/arrays/fundamentals/)
+    - [Linear search](js/arrays/fundamentals/linear_search.js)
+    - [Largest element](js/arrays/fundamentals/largest_element.js)
+    - [Second largest element](js/arrays/fundamentals/second_largest_element.js)
+    - [Maximum consecutive ones](js/arrays/fundamentals/maximum_consecutive_ones.js)
+    - [Left rotate array by one](js/arrays/fundamentals/left_rotate_array_by_one.js)
+    - [Left rotate array by k places](js/arrays/fundamentals/left_rotate_array_by_k_places.js)
 
 ### Java (Coming Soon)
 
