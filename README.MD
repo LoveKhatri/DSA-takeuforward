@@ -8,68 +8,114 @@ The structure of the repository mirrors the structure on the TakeUForward websit
 
 ### JavaScript
 
-- [patterns](js/patterns)
-- [basic-maths](js/basic-maths)
-  - [Count all digits of a number](js/basic-maths/count_all_digits_of_a_number.js)
-  - [Count number of odd digits in a number](js/basic-maths/count_number_of_odd_digits_in_a_number.js)
-  - [Reverse a number](js/basic-maths/reverse_a_number.js)
-  - [Palindrome number](js/basic-maths/palindrome_number.js)
-  - [Return the largest digit in a number](js/basic-maths/return_the_largest_digit_in_a_number.js)
-  - [Factorial of a given number](js/basic-maths/factorial_of_a_given_number.js)
-  - [Check if the number is armstrong](js/basic-maths/check_if_the_number_is_armstrong.js)
-  - [Check for perfect number](js/basic-maths/check_for_perfect_number.js)
-  - [Check for prime number](js/basic-maths/check_for_prime_number.js)
-  - [Count of prime numbers till N](js/basic-maths/count_of_prime_numbers_till_N.js)
-  - [GCD of two numbers](js/basic-maths/gcd_of_two_numbers.js)
-  - [LCM of two numbers](js/basic-maths/lcm_of_two_numbers.js)
-  - [Divisors of a number](js/basic-maths/divisors_of_a_number.js)
-- [basic-arrays](js/basic-arrays)
-  - [Sum of array elements](js/basic-arrays/sum_of_array_elements.js)
-  - [Count of odd numbers in array](js/basic-arrays/count_of_odd_numbers_in_array.js)
-  - [Reverse an array](js/basic-arrays/reverse_an_array.js)
-  - [Check if the array is sorted](js/basic-arrays/check_if_the_array_is_sorted.js)
-- [basic-hashing](js/basic-hashing/)
-  - [Highest occuring element in an array](js/basic-hashing/highest_occuring_element_in_an_array.js)
-  - [Second highest occuring element](js/basic-hashing/second_highest_occuring_element.js)
-  - [Sum of highest and lowest frequency](js/basic-hashing/sum_of_highest_and_lowest_frequency.js)
-- [basic-strings](js/basic-strings/)
-  - [Reverse a string](js/basic-strings/reverse_a_string.js)
-  - [Palindrome check](js/basic-strings/palindrome_check.js)
-  - [Largest odd number in a string](js/basic-strings/largest_odd_number_in_a_string.js)
-  - [Longest common prefix](js/basic-strings/longest_common_prefix.js)
-  - [Isomorphic string](js/basic-strings/isomorphic_string.js)
-  - [Rotate string](js/basic-strings/rotate_string.js)
-  - [Valid anagram](js/basic-strings/valid_anagram.js)
-  - [Sort characters by frequency](js/basic-strings/sort_characters_by_frequency.js)
-- [basic-recursion](js/basic-recursion/)
+<details>
+  <summary>patterns</summary>
+  <ul>
+    <li><a href="js/patterns">patterns</a></li>
+  </ul>
+</details>
 
-  - [Sum of first N numbers](js/basic-recursion/sum_of_first_n_numbers.js)
-  - [Factorial of a given number](js/basic-recursion/factorial_of_a_given_number.js)
-  - [Sum of array elements](js/basic-recursion/sum_of_array_elements.js)
-  - [Reverse a string](js/basic-recursion/reverse_a_string.js)
-  - [Check if string is palindrome or not](js/basic-recursion/check_if_string_is_palindrome_or_not.js)
-  - [Check if a number is prime or not](js/basic-recursion/check_if_a_number_is_prime_or_not.js)
-  - [Reverse an array](js/basic-recursion/reverse_an_array.js)
-  - [Check if the array is sorted](js/basic-recursion/check_if_the_array_is_sorted.js)
-  - [Sum of digits in a given number](js/basic-recursion/sum_of_digits_in_a_given_number.js)
-  - [Fibonacci number](js/basic-recursion/fibonacci_number.js)
+<details>
+  <summary>basic-maths</summary>
+  <ul>
+    <li><a href="js/basic-maths/count_all_digits_of_a_number.js">Count all digits of a number</a></li>
+    <li><a href="js/basic-maths/count_number_of_odd_digits_in_a_number.js">Count number of odd digits in a number</a></li>
+    <li><a href="js/basic-maths/reverse_a_number.js">Reverse a number</a></li>
+    <li><a href="js/basic-maths/palindrome_number.js">Palindrome number</a></li>
+    <li><a href="js/basic-maths/return_the_largest_digit_in_a_number.js">Return the largest digit in a number</a></li>
+    <li><a href="js/basic-maths/factorial_of_a_given_number.js">Factorial of a given number</a></li>
+    <li><a href="js/basic-maths/check_if_the_number_is_armstrong.js">Check if the number is armstrong</a></li>
+    <li><a href="js/basic-maths/check_for_perfect_number.js">Check for perfect number</a></li>
+    <li><a href="js/basic-maths/check_for_prime_number.js">Check for prime number</a></li>
+    <li><a href="js/basic-maths/count_of_prime_numbers_till_N.js">Count of prime numbers till N</a></li>
+    <li><a href="js/basic-maths/gcd_of_two_numbers.js">GCD of two numbers</a></li>
+    <li><a href="js/basic-maths/lcm_of_two_numbers.js">LCM of two numbers</a></li>
+    <li><a href="js/basic-maths/divisors_of_a_number.js">Divisors of a number</a></li>
+  </ul>
+</details>
 
-- [Sorting](js/sorting/)
+<details>
+  <summary>basic-arrays</summary>
+  <ul>
+    <li><a href="js/basic-arrays/sum_of_array_elements.js">Sum of array elements</a></li>
+    <li><a href="js/basic-arrays/count_of_odd_numbers_in_array.js">Count of odd numbers in array</a></li>
+    <li><a href="js/basic-arrays/reverse_an_array.js">Reverse an array</a></li>
+    <li><a href="js/basic-arrays/check_if_the_array_is_sorted.js">Check if the array is sorted</a></li>
+  </ul>
+</details>
 
-  - [Selection sort](js/sorting/selection_sort.js)
-  - [Bubble sort](js/sorting/bubble_sort.js)
-  - [Insertion sorting](js/sorting/insertion_sorting.js)
-  - [Merge sorting](js/sorting/merge_sorting.js)
-  - [Quick sorting](js/sorting/quick_sorting.js)
+<details>
+  <summary>basic-hashing</summary>
+  <ul>
+    <li><a href="js/basic-hashing/highest_occuring_element_in_an_array.js">Highest occuring element in an array</a></li>
+    <li><a href="js/basic-hashing/second_highest_occuring_element.js">Second highest occuring element</a></li>
+    <li><a href="js/basic-hashing/sum_of_highest_and_lowest_frequency.js">Sum of highest and lowest frequency</a></li>
+  </ul>
+</details>
 
-- [Arrays](js/arrays/)
-  - [Fundamentals](js/arrays/fundamentals/)
-    - [Linear search](js/arrays/fundamentals/linear_search.js)
-    - [Largest element](js/arrays/fundamentals/largest_element.js)
-    - [Second largest element](js/arrays/fundamentals/second_largest_element.js)
-    - [Maximum consecutive ones](js/arrays/fundamentals/maximum_consecutive_ones.js)
-    - [Left rotate array by one](js/arrays/fundamentals/left_rotate_array_by_one.js)
-    - [Left rotate array by k places](js/arrays/fundamentals/left_rotate_array_by_k_places.js)
+<details>
+  <summary>basic-strings</summary>
+  <ul>
+    <li><a href="js/basic-strings/reverse_a_string.js">Reverse a string</a></li>
+    <li><a href="js/basic-strings/palindrome_check.js">Palindrome check</a></li>
+    <li><a href="js/basic-strings/largest_odd_number_in_a_string.js">Largest odd number in a string</a></li>
+    <li><a href="js/basic-strings/longest_common_prefix.js">Longest common prefix</a></li>
+    <li><a href="js/basic-strings/isomorphic_string.js">Isomorphic string</a></li>
+    <li><a href="js/basic-strings/rotate_string.js">Rotate string</a></li>
+    <li><a href="js/basic-strings/valid_anagram.js">Valid anagram</a></li>
+    <li><a href="js/basic-strings/sort_characters_by_frequency.js">Sort characters by frequency</a></li>
+  </ul>
+</details>
+
+<details>
+  <summary>basic-recursion</summary>
+  <ul>
+    <li><a href="js/basic-recursion/sum_of_first_n_numbers.js">Sum of first N numbers</a></li>
+    <li><a href="js/basic-recursion/factorial_of_a_given_number.js">Factorial of a given number</a></li>
+    <li><a href="js/basic-recursion/sum_of_array_elements.js">Sum of array elements</a></li>
+    <li><a href="js/basic-recursion/reverse_a_string.js">Reverse a string</a></li>
+    <li><a href="js/basic-recursion/check_if_string_is_palindrome_or_not.js">Check if string is palindrome or not</a></li>
+    <li><a href="js/basic-recursion/check_if_a_number_is_prime_or_not.js">Check if a number is prime or not</a></li>
+    <li><a href="js/basic-recursion/reverse_an_array.js">Reverse an array</a></li>
+    <li><a href="js/basic-recursion/check_if_the_array_is_sorted.js">Check if the array is sorted</a></li>
+    <li><a href="js/basic-recursion/sum_of_digits_in_a_given_number.js">Sum of digits in a given number</a></li>
+    <li><a href="js/basic-recursion/fibonacci_number.js">Fibonacci number</a></li>
+  </ul>
+</details>
+
+<details>
+  <summary>Sorting</summary>
+  <ul>
+    <li><a href="js/sorting/selection_sort.js">Selection sort</a></li>
+    <li><a href="js/sorting/bubble_sort.js">Bubble sort</a></li>
+    <li><a href="js/sorting/insertion_sorting.js">Insertion sorting</a></li>
+    <li><a href="js/sorting/merge_sorting.js">Merge sorting</a></li>
+    <li><a href="js/sorting/quick_sorting.js">Quick sorting</a></li>
+  </ul>
+</details>
+
+<details>
+  <summary>Arrays</summary>
+  <ul>
+    <li>
+      <a href="js/arrays/fundamentals/">Fundamentals</a>
+      <ul>
+        <li><a href="js/arrays/fundamentals/linear_search.js">Linear search</a></li>
+        <li><a href="js/arrays/fundamentals/largest_element.js">Largest element</a></li>
+        <li><a href="js/arrays/fundamentals/second_largest_element.js">Second largest element</a></li>
+        <li><a href="js/arrays/fundamentals/maximum_consecutive_ones.js">Maximum consecutive ones</a></li>
+        <li><a href="js/arrays/fundamentals/left_rotate_array_by_one.js">Left rotate array by one</a></li>
+        <li><a href="js/arrays/fundamentals/left_rotate_array_by_k_places.js">Left rotate array by k places</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="js/arrays/logic-building/">Logic Building</a>
+      <ul>
+        <li><a href="js/arrays//logic-building/remote_duplicates_from_sorted_array.js">Remove duplicates from sorted array</a></li>
+      </ul>
+    </li>
+  </ul>
+</details>
 
 ### Java (Coming Soon)
 
@@ -83,4 +129,4 @@ To navigate through the repository, select the language folder at the top level 
 
 ## Links
 
-- [TakeUForward DSA Course](https://takeuforward.org/)
+<a href="https://takeuforward.org/">TakeUForward DSA Course</a>
