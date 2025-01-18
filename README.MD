@@ -111,7 +111,8 @@ The structure of the repository mirrors the structure on the TakeUForward websit
     <li>
       <a href="js/arrays/logic-building/">Logic Building</a>
       <ul>
-        <li><a href="js/arrays//logic-building/remote_duplicates_from_sorted_array.js">Remove duplicates from sorted array</a></li>
+        <li><a href="js/arrays/logic-building/remote_duplicates_from_sorted_array.js">Remove duplicates from sorted array</a></li>
+        <li><a href="js/arrays/logic-building/union_of_two_sorted_arrays.js">Union of two sorted arrays</a></li>
       </ul>
     </li>
   </ul>
