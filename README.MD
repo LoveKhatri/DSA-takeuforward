@@ -118,6 +118,14 @@ The structure of the repository mirrors the structure on the TakeUForward websit
         <li><a href="js/arrays/logic-building/intersection_of_two_sorted_arrays.js">Intersection of two sorted arrays</a></li>
       </ul>
     </li>
+    <li>
+      <a href="js/arrays/faqs-medium/">FAQs(Medium)</a>
+      <ul>
+        <li><a href="js/arrays/faqs-medium/leaders_in_an_array.js">Leaders in an array</a></li>
+        <li><a href="js/arrays/faqs-medium/print_the_matrix_in_spiral_manner.js">Print the matrix in spiral manner</a></li>
+        <!-- <li><a href="js/arrays/faqs-medium/"></a></li> -->
+      </ul>
+    </li>
   </ul>
 </details>
 
