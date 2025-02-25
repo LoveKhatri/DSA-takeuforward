@@ -123,7 +123,10 @@ The structure of the repository mirrors the structure on the TakeUForward websit
       <ul>
         <li><a href="js/arrays/faqs-medium/leaders_in_an_array.js">Leaders in an array</a></li>
         <li><a href="js/arrays/faqs-medium/print_the_matrix_in_spiral_manner.js">Print the matrix in spiral manner</a></li>
-        <!-- <li><a href="js/arrays/faqs-medium/"></a></li> -->
+        <li><a href="js/arrays/faqs-medium/rearrange_array_elements_by_sign.js">Rearrange array elements by sign</a></li>
+        <li><a href="js/arrays/faqs-medium/pascals_triangle.js">Pascal's Triangle</a></li>
+        <li><a href="js/arrays/faqs-medium/rotate_matrix_by_90_degrees.js">Rotate matrix by 90 degrees</a></li>
+        <!-- <li><a href="js/arrays/faqs-medium"></a></li> -->
       </ul>
     </li>
   </ul>
