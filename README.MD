@@ -130,7 +130,14 @@ The structure of the repository mirrors the structure on the TakeUForward websit
         <li><a href="js/arrays/faqs-medium/3_sum.js">3 Sum</a></li>
         <li><a href="js/arrays/faqs-medium/4_sum.js">4 Sum</a></li>
         <li><a href="js/arrays/faqs-medium/sort_an_array_of_0s_1s_and_2s.js">Sort an array of 0s, 1s, and 2s</a></li>
-        <!-- <li><a href="js/arrays/faqs-medium"></a></li> -->
+        <li><a href="js/arrays/faqs-medium/kadanes_algorithm.js">Kadane's Algorithm</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="js/arrays/faqs-hard/">FAQs(Hard)</a>
+      <ul>
+        <li><a href="js/arrays/faqs-hard/majority_element_i.js">Majority Element I</a></li>
+        <!-- <li><a href="js/arrays/faqs-hard"></a></li> -->
       </ul>
     </li>
   </ul>
