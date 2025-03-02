@@ -137,6 +137,8 @@ The structure of the repository mirrors the structure on the TakeUForward websit
       <a href="js/arrays/faqs-hard/">FAQs(Hard)</a>
       <ul>
         <li><a href="js/arrays/faqs-hard/majority_element_i.js">Majority Element I</a></li>
+        <li><a href="js/arrays/faqs-hard/majority_element_ii.js">Majority Element II</a></li>
+        <li><a href="js/arrays/faqs-hard/find_the_repeating_and_missing_number.js">Find the Repeating and Missing Number</a></li>
         <!-- <li><a href="js/arrays/faqs-hard"></a></li> -->
       </ul>
     </li>
