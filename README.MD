@@ -141,7 +141,8 @@ The structure of the repository mirrors the structure on the TakeUForward websit
         <li><a href="js/arrays/faqs-hard/find_the_repeating_and_missing_number.js">Find the Repeating and Missing Number</a></li>
         <li><a href="js/arrays/faqs-hard/count_inversions.js">Count Inversions</a></li>
         <li><a href="js/arrays/faqs-hard/reverse_pairs.js">Reverse Pairs</a></li>
-        <!-- <li><a href="js/arrays/faqs-hard"></a></li> -->
+        <li><a href="js/arrays/faqs-hard/maximum_product_subarray_in_an_array.js">Maximum Product Subarray in an Array</a></li>
+        <li><a href="js/arrays/faqs-hard/merge_two_sorted_arrays_without_extra_space.js">Merge Two Sorted Arrays Without Extra Space</a></li>
       </ul>
     </li>
   </ul>
