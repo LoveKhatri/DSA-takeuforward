@@ -155,6 +155,7 @@ The structure of the repository mirrors the structure on the TakeUForward websit
       <a href="js/hashing/faqs">FAQs</a>
       <ul>
         <li><a href="js/hashing/faqs/longest_consecutive_sequence_in_an_array.js">Longest Consecutive Sequence in an Array</a></li>
+        <li><a href="js/hashing/faqs/longest_subarray_with_sum_k.js">Longest Subarray with Sum K</a></li>
         <!-- <li><a href="js/hashing/faqs"></a></li> -->
       </ul>
     </li>
